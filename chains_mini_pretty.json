@@ -11324,7 +11324,7 @@
 }, {
   "name": "Emoney Network Testnet",
   "chainId": 4544,
-  "shortName": "emoney testnet",
+  "shortName": "emoney-testnet",
   "networkId": 4544,
   "nativeCurrency": {
     "name": "Emoney Network",
