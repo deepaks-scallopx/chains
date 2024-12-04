@@ -951,6 +951,14 @@
     "format": "png"
   }]
 }, {
+  "name": "daily",
+  "icons": [{
+    "url": "ipfs://Qme8Ju8Bn1XHMGGx2FfXCookAPLLhzxYpfZL7Fcm3QLgLp",
+    "width": 1024,
+    "height": 1024,
+    "format": "png"
+  }]
+}, {
   "name": "cybascan",
   "icons": [{
     "url": "ipfs://bafkreiagdqfrvnbdjhkh27gjbvepzo66dpqgnbffmpnywuw5ncprg3jk3u",
@@ -1311,6 +1319,14 @@
     "format": "png"
   }]
 }, {
+  "name": "zoo",
+  "icons": [{
+    "url": "ipfs://QmUXemD3eYrWLeFNadHtz6WbCMVs5xX5knuu71sEKhPMgA",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "inco",
   "icons": [{
     "url": "ipfs://QmU9aHw1i3qM8rZekXfb4rFZHPxVvsLdnpohKLGGFYewMg",
@@ -1647,6 +1663,14 @@
     "format": "png"
   }]
 }, {
+  "name": "djt",
+  "icons": [{
+    "url": "ipfs://QmVCjy8yDeqWHFRNV2CaB82cLheVp37RdVGjwAxxjKqD5L",
+    "width": 96,
+    "height": 96,
+    "format": "png"
+  }]
+}, {
   "name": "six",
   "icons": [{
     "url": "ipfs://QmP93z696v8Hetu13peY2oEHDXq8Bj5CqaDRwpVkpnM15A",
@@ -1740,6 +1764,14 @@
     "url": "ipfs://Qmay2j8biuo5xLJL8NcLtrzubAEHuCWz65cdbKE1pSnGf6",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "lux",
+  "icons": [{
+    "url": "ipfs://QmSjXJFpVAEdstq5JiUKciokm9fCwqS7Z9fg6M1XBdpePe",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -3039,6 +3071,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sonic",
+  "icons": [{
+    "url": "ipfs://QmbFqQ87T3HwjF6KejNYYYMcUtc7t64FDbfkpgWchFgMpC",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "nexaChain",
   "icons": [{
     "url": "ipfs://bafkreib2t2lcaoh6iixrx4gjjvepws5tlsszfla5hb36b3mgyq7clve35y",
@@ -3330,6 +3370,14 @@
   "name": "lukso",
   "icons": [{
     "url": "ipfs://Qmeg9sFF5tAGi6MCx7YjtVHW6a23zqvHRK1xwzSdp9iE7z",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "expchain",
+  "icons": [{
+    "url": "ipfs://QmUf9AtP2ZjQFvE8V4UV5RXQJkfUrCAh4tyY7ZHesBhCMB",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -4124,6 +4172,14 @@
     "url": "ipfs://Qmdcs7BTuVPjMxfQjfcWdzVeRiXwhzRtRj637pyGRbT9ff",
     "width": 2400,
     "height": 2400,
+    "format": "png"
+  }]
+}, {
+  "name": "cytonic_l1",
+  "icons": [{
+    "url": "ipfs://QmWASoRS8k7YspDLiwz5xfpusBtqHwy5hR5B9NynGx8HGt",
+    "width": 326,
+    "height": 326,
     "format": "png"
   }]
 }, {
@@ -5615,6 +5671,14 @@
     "format": "png"
   }]
 }, {
+  "name": "unite",
+  "icons": [{
+    "url": "ipfs://QmajJp6gbZbTMNm5NjGFMv9gYKzDJsW4vVxTECu8NzGXa2",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "exzo",
   "icons": [{
     "url": "ipfs://QmeYpc2JfEsHa2Bh11SKRx3sgDtMeg6T8KpXNLepBEKnbJ",
@@ -5636,6 +5700,14 @@
     "url": "ipfs://QmNSoxDnj6MV8mPJWiuzzLbATcbk5op11NTwMTdzcr272F",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "owshen",
+  "icons": [{
+    "url": "ipfs://QmPraJeGkPBaJqSrFc5yfcazpK1TN5Nz8t56tYWMhXycbz",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -7108,6 +7180,14 @@
     "url": "ipfs://QmZCadkExKThak3msvszZjo6UnAbUJKE61dAcg4TixuMC3",
     "width": 160,
     "height": 171,
+    "format": "png"
+  }]
+}, {
+  "name": "deriw",
+  "icons": [{
+    "url": "ipfs://Qmf3bGpAoPV6K4JLpmzDW748Toqb9WArGzYP5rMUY5P9ED",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
