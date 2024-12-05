@@ -11389,7 +11389,7 @@
 }, {
   "name": "Emoney Network Testnet",
   "chainId": 4544,
-  "shortName": "emoney-testnet",
+  "shortName": "Emoney Testnet",
   "networkId": 4544,
   "nativeCurrency": {
     "name": "Emoney Network",
@@ -11405,13 +11405,13 @@
   "shortName": "emoney",
   "networkId": 4545,
   "nativeCurrency": {
-    "name": "Emoney Network",
+    "name": "Emoney Coin",
     "symbol": "EMYC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-publicnode.emoney.io/"],
+  "rpc": ["https://rpc-publicnode.emoney.io/", "https://public-node1-rpc.emoney.network/"],
   "faucets": [],
-  "infoURL": "https://emoney.network/"
+  "infoURL": "https://emoney.io/"
 }, {
   "name": "VERY Mainnet",
   "chainId": 4613,
@@ -11996,6 +11996,19 @@
   },
   "rpc": ["https://settlus-test-eth.settlus.io"],
   "faucets": ["https://faucet.settlus.io"],
+  "infoURL": "https://settlus.org"
+}, {
+  "name": "Settlus Sepolia Testnet",
+  "chainId": 5373,
+  "shortName": "setl-sepolia",
+  "networkId": 5373,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
   "infoURL": "https://settlus.org"
 }, {
   "name": "edeXa Mainnet",
